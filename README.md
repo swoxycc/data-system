@@ -5,7 +5,7 @@
 1. **Depoyu Klonlayın:**
     ```bash
     git clone https://github.com/swoxycan/data-system.git
-    cd your-repo-name
+    cd data-system-main
     ```
 
 2. **Gerekli Bağımlılıkları Yükleyin:**
