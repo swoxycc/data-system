@@ -4,7 +4,7 @@
 
 1. **Depoyu Klonlayın:**
     ```bash
-    git clone https://github.com/your-repo-name.git
+    git clone https://github.com/swoxycan/data-system.git
     cd your-repo-name
     ```
 
