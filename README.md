@@ -8,12 +8,7 @@
     cd data-system-main
     ```
 
-2. **Gerekli Bağımlılıkları Yükleyin:**
-    ```bash
-    npm install
-    ```
-
-3. **tokens.txt Dosyasını Doldurun:**
+2. **tokens.txt Dosyasını Doldurun:**
     - `tokens.txt` dosyasına gerekli bilgileri girin.
 
 ## Kullanım
